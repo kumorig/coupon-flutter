@@ -1,0 +1,32 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#580e3c",
+        "titleBar.activeBackground": "#2c071e",
+        "titleBar.activeForeground": "#e7e7e7",
+        "activityBar.activeBackground": "#580e3c",
+        "activityBar.activeBorder": "#4b6e12",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#4b6e12",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#2c071e",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#580e3c",
+        "titleBar.inactiveBackground": "#2c071e99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#2c071e",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.filecache": true,
+        "**/.packages": true,
+        "**/.dart_tool": true,
+        "**/build": true
+    },
+    "dart.closingLabels": false
+    
+}

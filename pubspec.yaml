@@ -1,0 +1,37 @@
+name: coupon
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  http: ^0.12.2
+  tabbar: 0.1.1
+  widget_circular_animator: ^0.1.5+1
+  expansion_card: 0.1.0
+  contactus: 1.1.7
+  let_log: ^1.1.4
+  shared_preferences: ^0.5.12+4
+  flutter_apns: ^1.4.1
+  device_info: ^1.0.0
+  qr_flutter: ^3.1.0
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.8.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_icons:
+  image_path: 'assets/images/logo.png'
+  android: true
+  ios: true

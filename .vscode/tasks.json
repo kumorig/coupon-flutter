@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "flutter",
+			"command": "flutter",
+			"args": [
+				"run"
+			],
+			"problemMatcher": [],
+			"label": "flutter: flutter run"
+		}
+	]
+}

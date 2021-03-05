@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893962802445",
+    "project_id": "coupon-f9099",
+    "storage_bucket": "coupon-f9099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893962802445:android:f0da62807d77ba30584c44",
+        "android_client_info": {
+          "package_name": "jp.ne.inpact.coupon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893962802445-6rsqqmqemukino4tdvv9rmfoj0k2ld03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASIWlb4EDwg9sdjZXc5prvhiLoAyUpoiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893962802445-6rsqqmqemukino4tdvv9rmfoj0k2ld03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
