@@ -9,6 +9,12 @@
 			],
 			"problemMatcher": [],
 			"label": "flutter: flutter run"
+		},
+		{
+			"type": "shell",
+			"command": "flutter build appbundle --target-platform android-arm,android-arm64,android-x64",
+			"problemMatcher": [],
+			"label": "flutter build --release"
 		}
 	]
 }
